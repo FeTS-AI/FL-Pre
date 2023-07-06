@@ -17,6 +17,18 @@ For more details, please visit us at [www.fets.ai](https://www.fets.ai/).
 If you have found the code and/or its ideas useful, please cite the following articles:
 
 ```
+@article{pati2022federated,
+  title={Federated learning enables big data for rare cancer boundary detection},
+  author={Pati, Sarthak and Baid, Ujjwal and Edwards, Brandon and Sheller, Micah and Wang, Shih-Han and Reina, G Anthony and Foley, Patrick and Gruzdev, Alexey and Karkada, Deepthi and Davatzikos, Christos and others},
+  journal={Nature communications},
+  volume={13},
+  number={1},
+  pages={7346},
+  year={2022},
+  publisher={Nature Publishing Group UK London},
+  doi={10.1038/s41467-022-33407-5}
+}
+
 @article{fets_tool,
 	author={Pati, Sarthak and Baid, Ujjwal and Edwards, Brandon and Sheller, Micah J and Foley, Patrick and Reina, G Anthony and Thakur, Siddhesh P and Sako, Chiharu and Bilello, Michel and Davatzikos, Christos and Martin, Jason and Shah, Prashant and Menze, Bjoern and Bakas, Spyridon},
 	title={The federated tumor segmentation (FeTS) tool: an open-source solution to further solid tumor research},
