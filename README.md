@@ -6,7 +6,7 @@ Website for the FL study pre-op glioblastoma
 If you have found the code and/or its ideas useful, please cite the following articles:
 
 ```
-@article{pati2022federated,
+@article{fets_study,
   title={Federated learning enables big data for rare cancer boundary detection},
   author={Pati, Sarthak and Baid, Ujjwal and Edwards, Brandon and Sheller, Micah and Wang, Shih-Han and Reina, G Anthony and Foley, Patrick and Gruzdev, Alexey and Karkada, Deepthi and Davatzikos, Christos and others},
   journal={Nature communications},
