@@ -1,4 +1,4 @@
-# FeTS: Federated Tumor Segmentation 
+# FeTS: Federated Tumor Segmentation for Pre-operative Glioblastoma
 
 The Federated Tumor Segmentation (FeTS) platform, describes an on-going under development open-source toolkit, with a user-friendly graphical user interface (GUI), aiming at:
 
